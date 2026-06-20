@@ -1,5 +1,4 @@
 # soma.py
-Ler dois numeros
 # Início
 # Ler os dois números
 num1 = int(input("Introduza n1: "))
